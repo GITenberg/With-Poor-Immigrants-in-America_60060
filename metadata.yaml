@@ -1,5 +1,8 @@
 _repo: With-Poor-Immigrants-in-America_60060
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60060-h/images/cover.jpg
 creator:
   author:
     agent_name: Graham, Stephen
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4157
     wikipedia: http://en.wikipedia.org/wiki/Stephen_Graham_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60060#With-Poor-Immigrants-in-America
 gutenberg_issued: '2019-08-05'
 gutenberg_type: Text
 identifiers:
