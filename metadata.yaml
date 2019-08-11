@@ -1,0 +1,28 @@
+_repo: With-Poor-Immigrants-in-America_60060
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Graham, Stephen
+    birthdate: 1884
+    deathdate: 1975
+    gutenberg_agent_id: '4157'
+    url: http://www.gutenberg.org/2009/agents/4157
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Graham_%28author%29
+description: ''
+gutenberg_issued: '2019-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60060'
+  lccn: '14015813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 1865-1918'
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'United States -- Emigration and immigration'
+- !lcc 'E151'
+- GITenberg
+title: With Poor Immigrants in America
+url: http://www.gutenberg.org/ebooks/60060
